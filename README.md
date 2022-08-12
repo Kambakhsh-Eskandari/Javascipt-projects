@@ -1,2 +1,2 @@
 # Javascipt-projects
-This repository contain some side projects outside of ML and computer vision.
+This repository contains some side projects outside of DL and computer vision.
